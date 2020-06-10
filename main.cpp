@@ -1,3 +1,4 @@
+#include "stdpfx.h"
 #include "mainwindow.h"
 
 #include <QApplication>
